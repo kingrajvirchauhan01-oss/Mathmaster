@@ -1,0 +1,7 @@
+{
+  "name": "MathMaster Solver",
+  "description": "A comprehensive math solver that provides step-by-step solutions for algebra, calculus, and geometry using Gemini 3's advanced reasoning and OCR capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
